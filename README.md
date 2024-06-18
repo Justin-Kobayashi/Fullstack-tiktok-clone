@@ -1,1 +1,1 @@
-"Fullstack TikTok Clone" 
+Fullstack TikTok Clone with backend and frontend functionality
