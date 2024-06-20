@@ -1,1 +1,2 @@
-Fullstack TikTok Clone with backend and frontend functionality
+Description:
+Fullstack TikTok Clone that allows a user to register, log in, make posts containing a video, like and comment posts, update their user profile, and make multiple accounts. The project also implements infinite loading so whenever a user reaches the bottom of the feed more posts will be loaded into the feed. For more information on the frontend or backend go to the frontend or backend folder.
